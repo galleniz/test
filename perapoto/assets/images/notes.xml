@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="notess.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="15" y="15" width="38" height="36"/>
+	<SubTexture name="note0000" x="68" y="15" width="38" height="36"/>
+	<SubTexture name="press0000" x="15" y="66" width="38" height="36"/>
+</TextureAtlas>
